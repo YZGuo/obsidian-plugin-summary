@@ -3,7 +3,7 @@
     "name": "Plugin Summary",
     "version": "1.0.0",
     "minAppVersion": "0.15.0",
-    "description": "汇总已安装的Obsidian插件信息",
-    "author": "Your Name",
+    "description": "汇总已安装的Obsidian插件信息，当你更换设备时，能够从新找回原来的插件。",
+    "author": "O'Young 0",
     "isDesktopOnly": false
 }
