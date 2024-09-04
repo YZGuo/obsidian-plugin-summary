@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-plugin-summary",
+    "name": "Plugin Summary",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "汇总已安装的Obsidian插件信息",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}
